@@ -1,0 +1,103 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; text-align: center;
+}
+.menu a{
+    text-decoration: none;
+}
+.footer a{
+    text-decoration: none;
+}
+.heads{
+    background-color: #231f20;overflow: auto; color: beige; 
+}
+.menu{
+    background-color: #DEC9B2; overflow: auto;
+}
+.bodys{
+    background-color: #F4EADA; overflow: auto;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.footer{
+    background-color: #6B4E45;overflow: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.bodys img{
+
+border-style: solid;
+border-width: 2px;
+border-color: #DEC9B2;
+border-radius: 6px;
+margin: 2px;
+object-fit: cover;
+object-position: top;
+}
+.menu ul {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-decoration: none;}
+
+    .menu li {
+        display: inline-block;
+        text-align: center;
+        }
+
+        .menu li a {
+            display: inline-block;
+            height: auto;
+            width: 150px;
+            color: #333333;
+            background-color: #f5f5f5;
+            padding: 10px;
+            margin: 4px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 4px;}
+            .menu li a:hover {
+                background-color: #6B4E45;
+                padding: 12px;
+            }
+
+            .footer a {
+                display: inline-block;
+                height: auto;
+                width: 150px;
+                color: #333333;
+                background-color: #f5f5f5;
+                padding: 10px;
+                margin: 4px;
+                text-align: center;
+                font-size: 18px;
+                font-weight: bold;
+                text-decoration: none;
+                border-radius: 4px;}
+                .footer a:hover {
+                    background-color: #DEC9B2; padding: 12px
+                }
+                
+                
+                .bodys h2{
+                    overflow: auto;
+margin-top: 40px;
+margin-left: auto;
+margin-right: auto;
+width: 200px;
+padding: 10px;
+background-color: #6B4E45;
+color: white;
+font-weight: bold;
+text-align: center;
+border-radius: 30px;
+
+
+
+
+
+
+
+
+                }
